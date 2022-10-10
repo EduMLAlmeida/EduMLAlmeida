@@ -5,6 +5,11 @@
 
 <br>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/eduardomlalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:edualmeidawebdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+
 <div align="justify">
 
 ![image](https://user-images.githubusercontent.com/94457846/194758146-21fe5029-9b22-4a2f-b4af-3f601d9a8e03.png) Sou um profissional com experiência em lidar com pessoas, formado em Engenharia, perseguindo uma nova paixão pela programação.
