@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<p align="center"> <b>Minhas linguagens e tecnologias:</b> </p>
+<p align="center"> <b>Linguagens e tecnologias que venho estudando:</b> </p>
 <table>
 <tr>
   <th>Linguagens</th>
