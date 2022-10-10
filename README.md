@@ -90,4 +90,9 @@
   
 </table>
 </div>
-       
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; align-conten: center; width: 80%; flex-wrap: wrap; margin: 0 auto;">
+  <a href="https://github.com/EduMLAlmeida" align="center"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduMLAlmeida&&layout=compact&langs_count=7&theme=codeSTACKr" width="330px" align="center"/>
+  </a>
+</div>
