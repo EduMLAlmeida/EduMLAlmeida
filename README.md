@@ -12,7 +12,7 @@
 
 <div align="justify">
 
-![image](https://user-images.githubusercontent.com/94457846/194758146-21fe5029-9b22-4a2f-b4af-3f601d9a8e03.png) Sou um profissional com experiência em lidar com pessoas, formado em Engenharia, perseguindo uma nova paixão pela programação.
+![image](https://user-images.githubusercontent.com/94457846/194758146-21fe5029-9b22-4a2f-b4af-3f601d9a8e03.png) Sou um profissional perseguindo uma nova paixão pela programação, formado em Engenharia.
 
 ![image](https://user-images.githubusercontent.com/94457846/194758272-2e257dc0-806d-427f-85e8-a5471b29f4df.png) Atualmente estudando Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>, uma escola que vai além do convencional.
 
